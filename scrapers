@@ -1,6 +1,9 @@
 {
 	"1": [
-		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/eztv.json"
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/eztv.json",
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/1337x.json",
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/kickass.json",
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/nyaa.json"
 	]
 	
 }
