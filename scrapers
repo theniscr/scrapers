@@ -1,8 +1,14 @@
 {
 	"1": [
-		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/eztv.json",
-		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/1337x.json",
-		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/kickass.json",
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/eztv.json"
+	],
+	"2": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/1337x.json"
+	],
+	"3": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/kickass.json"
+	],
+	"4": [
 		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/nyaa.json"
 	]
 	
