@@ -10,6 +10,27 @@
 	],
 	"4": [
 		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/nyaa.json"
+	],
+	"5": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/piratebay.json"
+	],
+	"6": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/rarbg.json"
+	],
+	"7": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/torrentgalaxy.json"
+	],
+	"8": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/yts.json"
+	],
+	"9": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/rutor.json"
+	],
+	"10": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/rlsbb.json"
+	],
+	"11": [
+		"https://raw.githubusercontent.com/theniscr/scrapers/main/main/maxrls.json"
 	]
 	
 }
